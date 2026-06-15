@@ -1,0 +1,10 @@
+# Requirements for AES-256 Ransomware PoC
+
+cryptography>=42.0.0
+Pillow>=10.0.0
+pygame>=2.5.0
+
+# Notes:
+# - tkinter is part of standard Python library (no need to install)
+# - All dependencies are auto-installed by the scripts
+# - For development/testing only
